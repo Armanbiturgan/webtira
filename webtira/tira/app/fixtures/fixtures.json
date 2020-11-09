@@ -1,0 +1,38 @@
+[
+  {
+    "model" : "app.Np",
+    "pk" : 111010000,
+    "fields" : {
+      "oblast" : "Акмолинская",
+      "region" : "Ерейментауский",
+      "ruraldistrict" : " ",
+      "snp" : "г.Кокшетау",
+      "population" : "159565",
+      "gen2" : "Beeline, Kcell, Tele2",
+      "gen3" : "Beeline, Kcell, Tele2",
+      "gen4" : "Beeline, Kcell, Tele2",
+      "ftth_b" : "ВОЛС",
+      "fo_plan" : "-",
+      "project3g4g250" : "План",
+      "radiomonitoring" : "Дата примечание"
+    }
+  },
+  {
+    "model" : "app.Np",
+    "pk": 111033100,
+    "fields" : {
+      "oblast" : "Акмолинская область",
+      "region": " ",
+      "ruraldistrict" : "Красноярский с.о.",
+      "snp" : "с.Красный Яр",
+      "population" : "12492",
+      "gen2" : "Beeline, Kcell, Tele2",
+      "gen3" : "Beeline, Kcell, Tele2",
+      "gen4" : "Beeline, Kcell, Tele2",
+      "ftth_b" : "ВОЛС",
+      "fo_plan" : "-",
+      "project3g4g250" : "Исполнено",
+      "radiomonitoring" : "Дата Примечание"
+  }
+ }
+]

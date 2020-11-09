@@ -1,0 +1,649 @@
+[
+  {
+    "model" : "app.Np",
+    "pk" : 111837100,
+    "fields" : {
+      "oblast":"Акмолинская", "region":"", "ruraldistrict":"", "snp":"п.Бестобе","population":"6689",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111841100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"п.Заводской","population":"3833",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111843100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"с.Карабулак","population":"1388",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111845100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"п.Шантобе","population":"3267",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111845200,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"с.Hовокронштадка","population":"145",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111847100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"Богембайский","snp":"с.Байконыс","population":"433",
+      "gen2":"2G: Beeline, Kcell","gen3":"3G: Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111847300,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"Богембайский","snp":"с.Богембай","population":"85",
+      "gen2":"Beeline","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111849100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"с.Изобильное","population":"515",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 111851100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"","ruraldistrict":"","snp":"с.Кырыккудык","population":"558",
+      "gen2":"Beeline","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"проект","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 113220100,
+    "fields" : {
+      "oblast":"Акмолинская","region":"Аккольский","ruraldistrict":"","snp":"г.Акколь","population":"15309",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 113220200,
+    "fields" : {
+      "oblast":"Акмолинская","region":"Аккольский","ruraldistrict":"","snp":"Аккол орманшар","population":"268",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":"24.06.2020:Уровень сигнала недостаточный для совершения голосового вызова и мобильного интернета"}
+  },
+
+  {
+   "model" : "app.Np",
+   "pk" : 156445400,
+   "fields" : {
+     "oblast":"Актюбинская","region":"Шалкарский","ruraldistrict":"Тогызский","snp":"с.Кендала","population":"90",
+     "gen2":"Kcell","gen3":"","gen4":"",
+     "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 156445600,
+    "fields" : {
+      "oblast":"Актюбинская","region":"Шалкарский","ruraldistrict":"Тогызский","snp":"с.Тосбулак","population":"83",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 193443100,
+    "fields" : {
+      "oblast":"Алматинская","region":"Алакольский","ruraldistrict":"Достыкский","snp":"с.Достык","population":"5654",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Kcell, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 193443200,
+    "fields" : {
+      "oblast":"Алматинская","region":"Алакольский","ruraldistrict":"Достыкский","snp":"ст.Жаланашколь","population":"25",
+      "gen2":"","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 193443300,
+    "fields" : {
+      "oblast":"Алматинская","region":"Алакольский","ruraldistrict":"Достыкский","snp":"ст.Коктума","population":"50",
+      "gen2":"Beeline, Kcell","gen3":"","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 234651100,
+    "fields" : {
+      "oblast":"Атырауская","region":"Курмангазинский","ruraldistrict":"Коптогайский","snp":"с.Коптогай","population":"790",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273257200,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Жанабулакский","snp":"с.Косшыгыр","population":"5",
+      "gen2":"","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273259100,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Кабыршактинский","snp":"с.Кабыршакты","population":"935",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273263100,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Карауылтобинский","snp":"с.Карауылтобе","population":"1509",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273263300,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Карауылтобинский","snp":"с.Кырыккудук","population":"7",
+      "gen2":"Beeline","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273264100,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Конеккеткенский","snp":"с.Конеккеткен","population":"899",
+      "gen2":"Beeline, Kcell","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273264200,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Конеккеткенский","snp":"с.Камыстыколь","population":"211",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273265100,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Курайлысайский","snp":"с.Жубана Молдагалиева","population":"990",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 273265200,
+    "fields" : {
+     "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Курайлысайский","snp":"с.Атибек","population":"73",
+     "gen2":"Beeline","gen3":"Beeline","gen4":"",
+     "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+   },
+
+   {
+    "model" : "app.Np",
+    "pk" : 273265300,
+    "fields" : {
+      "oblast":"Западно-Казахстанская","region":"Акжаикский","ruraldistrict":"Курайлысайский","snp":"с.Сайкудук","population":"622",
+      "gen2":"Beeline","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"проект","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"с.Татти","population":"1100",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447200,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"с.Бельарык","population":"211",
+      "gen2":"Beeline, Kcell","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447300,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"с.Карасу","population":"200",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447400,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"c.Ак жол","population":"357",
+      "gen2":"Beeline, Kcell","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"проект","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447500,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"рзд.Тасоткель","population":"49",
+      "gen2":"2G: Beeline, Kcell","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447600,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"ст.Татти","population":"209",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315447700,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Таттинский","snp":"рзд.Чемен","population":"44",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315451100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Акаралский","snp":"с.Акарал","population":"2469",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Kcell",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315451500,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Акаралский","snp":"с.Сыпатай","population":"1243",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315453100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Аспаринский","snp":"с.Аспара","population":"1086",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315453200,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Аспаринский","snp":"с.Кайындысай","population":"424",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315453300,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Меркенский","ruraldistrict":"Аспаринский","snp":"с.Кумарык","population":"150",
+      "gen2":"Beeline, Kcell","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315630100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Мойынкумский","ruraldistrict":"Мойынкумский","snp":"с.Мойынкум","population":"9116",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315632100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Мойынкумский","ruraldistrict":"","snp":"с.Акбакай","population":"850",
+      "gen2":"Beeline, Kcell","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"проект","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315633100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Мойынкумский","ruraldistrict":"","snp":"с.Аксуек","population":"1021",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315634100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Мойынкумский","ruraldistrict":"Биназарский","snp":"с.Биназар","population":"1430",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 315635100,
+    "fields" : {
+      "oblast":"Жамбылская","region":"Мойынкумский","ruraldistrict":"Бирликский","snp":"с.Бирлик","population":"3386",
+      "gen2":"Beeline, Kcell","gen3":"Beeline","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356430200,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"Аксу-Аюлинский","snp":"с.Аксу","population":"88",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+  "model" : "app.Np",
+  "pk" : 356430300,
+  "fields" : {
+    "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"Аксу-Аюлинский","snp":"с.Актобе","population":"120",
+    "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+    "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356430400,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"Аксу-Аюлинский","snp":"с.Енбекшил","population":"198",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356430500,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"Аксу-Аюлинский","snp":"с.Кайракты","population":"125",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356431100,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"","snp":"п.Агадырь","population":"10266",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356431500,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"","snp":"с.Аксарлы (Сарыши)","population":"256",
+      "gen2":"Beeline","gen3":"","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"проект","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356435100,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"","snp":"п.Акжал","population":"3381",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 356435200,
+    "fields" : {
+      "oblast":"Карагандинская","region":"Шетский","ruraldistrict":"","snp":"с.Акжартас","population":"173",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 431010000,
+    "fields" : {
+      "oblast":"Кызылординская","region":"","ruraldistrict":"","snp":"г.Кызылорда","population":"242446",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Kcell, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 431033100,
+    "fields" : {
+      "oblast":"Кызылординская","region":"","ruraldistrict":"Акжарминский","snp":"с.Баймурат","population":"1539",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+    },
+
+    {
+      "model" : "app.Np",
+      "pk" : 431033200,
+      "fields" : {
+        "oblast":"Кызылординская","region":"","ruraldistrict":"Акжарминский","snp":"с.Калгандарья","population":"100",
+        "gen2":"Beeline, Kcell, Tele2","gen3":"Kcell, Tele2","gen4":"Kcell",
+        "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615837800,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"Алатауский","snp":"с.Шатыртобе","population":"337",
+      "gen2":"Beeline, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615837900,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"Алатауский","snp":"с.Шубарагаш","population":"338",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615839100,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о. Биринши Мамыр","snp":"с.Биринши Мамыр","population":"6758",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615839200,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о. Биринши Мамыр","snp":"с.Алгабас","population":"1326",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615839300,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о.Биринши Мамыр","snp":"с.Бейнеткеш","population":"1153",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615839400,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о.Биринши Мамыр","snp":"с.Жанажол","population":"2251",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+   "model" : "app.Np",
+   "pk" : 615839500,
+   "fields" : {
+     "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о.Биринши Мамыр","snp":"с.Загамбар","population":"4744",
+     "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Tele2",
+     "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+   },
+
+   {
+    "model" : "app.Np",
+    "pk" : 615839800,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о.Биринши Мамыр","snp":"с.Тагайна","population":"1172",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 615839900,
+    "fields" : {
+      "oblast":"Туркестанская","region":"Толебийский","ruraldistrict":"с.о.Биринши Мамыр","snp":"с.Ынтымак","population":"1265",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 632859400,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"г.Семей","ruraldistrict":"Приречный","snp":"с.Муздыбай","population":"291",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Tele2","gen4":"",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 632859500,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"г.Семей","ruraldistrict":"Приречный","snp":"с.Шоптыгак","population":"157",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 632863100,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"г.Семей","ruraldistrict":"","snp":"п.Чаган","population":"723",
+      "gen2":"Beeline","gen3":"","gen4":"",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 632865100,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"г.Семей","ruraldistrict":"","snp":"п.Шульбинск","population":"3107",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Tele2",
+      "ftth_b":"","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 633230100,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"Абайский","ruraldistrict":"Карааульский","snp":"с.Карааул","population":"5137",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 633233100,
+    "fields" : {
+      "oblast":"Восточно-Казахстанская","region":"Абайский","ruraldistrict":"","snp":"с.Кенгирбай би","population":"967",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Tele2","gen4":"Tele2",
+      "ftth_b":"","fo_plan":"исполнено","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 710000000,
+    "fields" : {
+      "oblast":"г.Нур-Султан","region":"","ruraldistrict":"","snp":"г.Нур-Султан","population":"1136008",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Kcell, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 750000000,
+    "fields" : {
+      "oblast":"г.Алматы","region":"","ruraldistrict":"","snp":"г.Алматы","population":"1916782",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Kcell, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  },
+
+  {
+    "model" : "app.Np",
+    "pk" : 790000000,
+    "fields" : {
+      "oblast":"г.Шымкент","region":"","ruraldistrict":"","snp":"г.Шымкент","population":"1036144",
+      "gen2":"Beeline, Kcell, Tele2","gen3":"Beeline, Kcell, Tele2","gen4":"Beeline, Kcell, Tele2",
+      "ftth_b":"ВОЛС","fo_plan":"","project3g4g250":"","radiomonitoring":""}
+  }
+]
